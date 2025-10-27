@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+sqlalchemy
+alembic             # optional for migrations
+pydantic
+python-dotenv
+google-cloud-speech  # google speech-to-text client
+soundfile
+aiofiles
+python-multipart
+requests
+uvicorn
